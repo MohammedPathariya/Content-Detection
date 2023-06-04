@@ -1,4 +1,4 @@
-# Content-Detection
+# Content-Detection Using LSTM and FNN
 
 Spam Email Detection and Classification using LSTM and Feed Forward Neural Network:
 
